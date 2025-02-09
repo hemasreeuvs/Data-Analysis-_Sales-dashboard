@@ -21,7 +21,7 @@ In general, these are designed to cater to the needs of businesses involved in B
 
 6.  Dashboard representation
 
-** Formulas involved in this analysis**
+**Formulas involved in this analysis**
 
 SumIF
 
