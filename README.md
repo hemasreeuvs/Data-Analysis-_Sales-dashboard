@@ -35,6 +35,16 @@ XLOOKUP
 
 OFFSET
 
-COUNT
+COUNT and many for analytical requirements
+
+**Insights we found out**
+
+We are trying to find out the sales that are made yearly, monthly and mode of the payment that is extremely used by Customers
+
+1. Total Sales made in 2021-2022 is 3M in total
+2. Total Profit sales is 70,000 per month
+3. Total profit in this year when compare to last year is 21%
+4. Most mode of Payment used by the customer is Credit Card
+5. Most Sale type is Online 
 
 
